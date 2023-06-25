@@ -17,4 +17,4 @@ https://github.com/DamianPyCoder/ThreeJS__Game__Blocks/blob/master/Muestra.mkv
 
 ![](https://github.com/DamianPyCoder/ThreeJS__Game__Blocks/blob/master/screenshots/liveserver.png)  
 
-**Nota 2:** *La versión que he utilizado de Node es la 12.18.0, por alguna razón con la más actual me ha dado problemas.*
+**Nota 2:** *La versión que he utilizado de Node es la 12.18.0, por alguna razón con la más actual he tenido problemas.*
